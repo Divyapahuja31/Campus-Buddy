@@ -1,0 +1,18 @@
+:root {
+    --primary: #2563eb; /* default blue */
+    --background: #f9fafb;
+    --text: #1f2937;
+  }
+  
+  .theme-green {
+    --primary: #10b981;
+    --background: #ecfdf5;
+    --text: #064e3b;
+  }
+  
+  .theme-pink {
+    --primary: #ec4899;
+    --background: #fdf2f8;
+    --text: #831843;
+  }
+  
